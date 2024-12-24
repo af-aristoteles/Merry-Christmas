@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, #002244, #001122);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    position: absolute;
+    top: 5%;
+    width: 100%;
+    font-size: 3rem;
+    text-shadow: 0 0 10px #ffffff, 0 0 20px #ff0000;
+}
+
+p {
+    position: absolute;
+    margin-bottom: 20px;
+    top: 15%;
+    width: 100%;
+    font-size: 1.5rem;
+    text-shadow: 0 0 10px #ffffff, 0 0 20px #ff8800;
+}
+
+#three-container {
+    width: 100vw;
+    height: 100vh;
+}
